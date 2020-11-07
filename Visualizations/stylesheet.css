@@ -4,13 +4,16 @@ body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 14px;
 }
-.header {
+/* .header {
     background-color: rgb(26, 161, 161);
     margin:10px;
     height: 60px;
     radius: 5px;
+    color: azure;
+} */
+#navbar {
+    color: azure;
 }
-
 #navbar ul {
     padding: 5px;
     list-style-type: none;
@@ -27,6 +30,9 @@ body {
     line-height: 55px;
     padding-left: 45px;
 }
+/* .navbar pageName {
+    color: azure;
+} */
 
 #navbar ul li {
     list-style: none;
@@ -51,6 +57,9 @@ body {
    color: rgb(26, 161, 161);
    background-color: azure;
 }
+.heading {
+    color:  rgb(26, 161, 161);
+}
 .main {
     background-color: azure;
     margin: 10px;
@@ -59,12 +68,12 @@ body {
     font-size: 110%;
 }
 
-h1 {
+/* h1 {
     font-size: 200%;
     color: azure;
     vertical-align: center;
     padding: 10px;
-}
+} */
 
 h2 {
     font-size: 140%;
