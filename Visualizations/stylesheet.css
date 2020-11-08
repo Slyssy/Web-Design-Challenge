@@ -4,62 +4,7 @@ body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 14px;
 }
-/* .header {
-    background-color: rgb(26, 161, 161);
-    margin:10px;
-    height: 60px;
-    radius: 5px;
-    color: azure;
-} */
-#navbar {
-    color: azure;
-}
-#navbar ul {
-    padding: 5px;
-    list-style-type: none;
-    text-align: right;
-    background-color: rgb(26, 161, 161);
-    margin: 10px;
-    height: 45px;
-    radius: 5px;
-}
 
-#navbar p {
-    float: left;
-    font-size: 200%;
-    line-height: 55px;
-    padding-left: 45px;
-}
-/* .navbar pageName {
-    color: azure;
-} */
-
-#navbar ul li {
-    list-style: none;
-    display: inline;
-    position: relative;
-}
-
-#navbar ul li a{
-    text-decoration: none;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: .2em 1em;
-    color: azure;
-    background-color: rgb(26, 161, 161);
-}
-
-#navbar ul li ul{
-    display: block;
-    position: absolute;
-}
-
-#navbar ul li a:hover {
-   color: rgb(26, 161, 161);
-   background-color: azure;
-}
-.heading {
-    color:  rgb(26, 161, 161);
-}
 .main {
     background-color: azure;
     margin: 10px;
@@ -68,6 +13,9 @@ body {
     font-size: 110%;
 }
 
+.dropdown-menu {
+    text-align: center;
+  }
 
 
 
@@ -76,6 +24,8 @@ body {
 
 
 
+/* navbar-light
+bg-light */
 
 
 
